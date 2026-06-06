@@ -6,9 +6,9 @@
 ```
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kiera251197/kiera251197/raw/output/github-snake-dark.svg?sanitize=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/kiera251197/kiera251197/raw/output/github-snake.svg?sanitize=true" />
-  <img alt="github contribution grid snake animation" src="https://github.com/kiera251197/kiera251197/raw/output/github-snake.svg?sanitize=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kiera251197/kiera251197/raw/output/github-snake-dark.svg?sanitize=true&v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/kiera251197/kiera251197/raw/output/github-snake.svg?sanitize=true&v=2" />
+  <img alt="github contribution grid snake animation" src="https://github.com/kiera251197/kiera251197/raw/output/github-snake.svg?sanitize=true&v=2" />
 </picture>
 </p>
  
