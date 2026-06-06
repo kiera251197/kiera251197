@@ -75,9 +75,8 @@ const kiera = {
  
 <div align="center">
  
-![Kiera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiera251197&show_icons=true&theme=rose_pine&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiera251197&layout=compact&theme=rose_pine&hide_border=true)
+![](https://img.shields.io/github/followers/kiera251197?style=flat-square&color=e8a4b8&labelColor=fce8ee&label=followers&logoColor=5a2035)
+![](https://img.shields.io/github/stars/kiera251197?style=flat-square&color=b3c9b6&labelColor=dceade&label=total%20stars&logoColor=1f3d23)
 </div>
 
 ---
