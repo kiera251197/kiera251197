@@ -24,6 +24,7 @@ const kiera = {
   contact:   "251197@virtualwindow.co.za",
   funFact:   "I love spicy food!",
   languages: ["English", "Afrikaans", "Korean (intermediate)", "Chinese (beginner)"] // 🇿🇦 🇰🇷 🇨🇳
+}
 ```
 ---
 
