@@ -8,7 +8,7 @@
 </div>
 ---
 
-### ⋆𐙚₊ Who's this? ˚⊹♡
+### ⋆𐙚₊ Who's This? ˚⊹♡
  
 Hi, I'm **Kiera** — a **2nd Year UX/UI Design & Interactive Development Student** at The Open Window in Centurion 🪷  <br>
 I love building things that are both beautiful *and* functional. <br>
@@ -23,8 +23,8 @@ const kiera = {
   currently: "2nd Year student, debugging & learning every day",
   contact:   "251197@virtualwindow.co.za",
   funFact:   "I love spicy food!",
-  languages: ["English", "Afrikaans", "Korean (intermediate)", "Chinese (beginner)"] // 🇿🇦 🇰🇷 🇨🇳
-}
+  languages: ["English", "Afrikaans", "Korean (intermediate)", "Mandarin (beginner)"] // 🇿🇦 🇰🇷 🇨🇳
+};
 ```
 ---
 
@@ -59,3 +59,21 @@ const kiera = {
 ![Photoshop](https://img.shields.io/badge/Photoshop-dfd4ee?style=flat-square&logo=adobephotoshop&logoColor=3b2860)
  
 ---
+ 
+### ⋆𐙚₊ My Pinned Projects ˚⊹♡
+ 
+| ✿ project | what it is |
+|-----------|------------|
+| [౨ৎ PawMetrics](https://github.com/kiera251197/PawMetrics) | ⟢ Data driven dog breed comparison website from social behaviour to life expectancy |
+| [౨ৎ Vortx Movies](https://github.com/kiera251197/Group6_Semester2_Term4_FinalWebsiteSubmission) | ⟢ Movie info website and trailer previewer for fanatics |
+| [౨ৎ Creative Login](https://github.com/kiera251197/Creative-Login) | ⟢ A creative & aesthetic take on login UI design |
+| [౨ৎ Stitched](https://github.com/NicciVanZyl/Stitched_DV200) | ⟢ Online thrift platform for pre-loved clothes |
+ 
+---
+ 
+<div align="center">
+
+Thanks for stopping by, traveller ˚⊹♡
+⋆˚｡⋆୨୧˚  Hope to see you again!  ˚୨୧⋆｡˚⋆
+ 
+</div>
