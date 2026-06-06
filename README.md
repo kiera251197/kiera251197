@@ -75,8 +75,7 @@ const kiera = {
  
 <div align="center">
  
-![](https://img.shields.io/github/followers/kiera251197?style=flat-square&color=e8a4b8&labelColor=fce8ee&label=followers&logoColor=5a2035)
-![](https://img.shields.io/github/stars/kiera251197?style=flat-square&color=b3c9b6&labelColor=dceade&label=total%20stars&logoColor=1f3d23)
+![GitHub Streak](https://streak-stats.demolab.com?user=kiera251197&theme=rose_pine&hide_border=true)
 </div>
 
 ---
