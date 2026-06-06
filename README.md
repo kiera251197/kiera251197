@@ -10,8 +10,9 @@
 
 ### ⋆𐙚₊ Who's this? ˚⊹♡
  
-Hi, I'm **Kiera** — a **2nd Year UX/UI Design & Interactive Development Student** at The Open Window in Centurion ˚⊱🪷⊰˚
+Hi, I'm **Kiera** — a **2nd Year UX/UI Design & Interactive Development Student** at The Open Window in Centurion 🪷  <br>
 I love building things that are both beautiful *and* functional. <br>
+
 I fell in love with intuitive and visually pleasing UI and wish to bring that to life with my (developing) coding skills ୨ৎ
 
 ```js
@@ -22,7 +23,7 @@ const kiera = {
   currently: "2nd Year student, debugging & learning every day",
   contact:   "251197@virtualwindow.co.za",
   funFact:   "I love spicy food!"
-  languages: "English, Afrikaans, Korean (intermediate), Chinese (beginner)"
+  languages: ["English", "Afrikaans", "Korean (intermediate)", "Chinese (beginner)"]
 };
 ```
 ---
@@ -32,8 +33,8 @@ const kiera = {
  
 **Languages & Frameworks**
  
-![HTML](https://img.shields.io/badge/HTML5-e8a4b8?style=flat-square&logo=html5&logoColor=5a2035)
-![CSS](https://img.shields.io/badge/CSS3-f2c4d0?style=flat-square&logo=css3&logoColor=5a2035)
+![HTML5](https://img.shields.io/badge/HTML5-e8a4b8?style=flat-square&logo=html5&logoColor=5a2035)
+![CSS](https://img.shields.io/badge/CSS-f2c4d0?style=flat-square&logo=css&logoColor=5a2035)
 ![JavaScript](https://img.shields.io/badge/JavaScript-fce8ee?style=flat-square&logo=javascript&logoColor=5a2035)
 ![React](https://img.shields.io/badge/React-dceade?style=flat-square&logo=react&logoColor=1f3d23)
 ![Node.js](https://img.shields.io/badge/Node.js-b3c9b6?style=flat-square&logo=nodedotjs&logoColor=1f3d23)
