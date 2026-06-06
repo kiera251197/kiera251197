@@ -15,8 +15,8 @@ jobs:
         with:
           github_user_name: kiera251197
           outputs: |
-            dist/github-snake.svg?color_snake=#f3b0c3&color_dots=#161b22,#aed1b8,#ffdfba,#f3b0c3,#c0a9d4
-            dist/github-snake-dark.svg?color_snake=#f3b0c3&color_dots=#161b22,#aed1b8,#ffdfba,#f3b0c3,#c0a9d4
+            dist/github-snake.svg?color_snake=#aed1b8&color_dots=#FFF5F8,#FBE5EB,#F2C9D5,#f3b0c3,#CF8C9F
+            dist/github-snake-dark.svg?color_snake=#f3b0c3&color_dots=#FFF5F8,#FBE5EB,#F2C9D5,#f3b0c3,#CF8C9F
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4
