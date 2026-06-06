@@ -34,7 +34,7 @@ const kiera = {
 **Languages & Frameworks**
  
 ![HTML5](https://img.shields.io/badge/HTML5-e8a4b8?style=flat-square&logo=html5&logoColor=5a2035)
-![CSS](https://img.shields.io/badge/CSS-f2c4d0?style=flat-square&logo=css&logoColor=5a2035)
+![CSS](https://img.shields.io/badge/CSS-f2c4d0?style=flat-square&logo=css3&logoColor=5a2035)
 ![JavaScript](https://img.shields.io/badge/JavaScript-fce8ee?style=flat-square&logo=javascript&logoColor=5a2035)
 ![React](https://img.shields.io/badge/React-dceade?style=flat-square&logo=react&logoColor=1f3d23)
 ![Node.js](https://img.shields.io/badge/Node.js-b3c9b6?style=flat-square&logo=nodedotjs&logoColor=1f3d23)
