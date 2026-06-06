@@ -84,9 +84,7 @@ const kiera = {
  
 [![Email](https://img.shields.io/badge/251197%40virtualwindow.co.za-e8a4b8?style=flat-square&logo=gmail&logoColor=5a2035)](mailto:251197@virtualwindow.co.za)
 [![GitHub](https://img.shields.io/badge/kiera251197-dceade?style=flat-square&logo=github&logoColor=1f3d23)](https://github.com/kiera251197)
- 
----
- 
+  
 <div align="center">
  
 Thanks for stopping by, traveller ˚⊹♡ <br>
