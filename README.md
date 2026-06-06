@@ -4,6 +4,10 @@
 ```
 ✦ ✧ ˚  · ✦ welcome to my little corner of the internet ✦ · ˚ ✧ ✦
 ```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kiera251197/kiera251197/output/snake-dark.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/kiera251197/kiera251197/output/snake.svg">
+</picture>
  
 </div>
 ---
