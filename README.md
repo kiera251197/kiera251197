@@ -22,7 +22,7 @@ const kiera = {
   studying:  "UX/UI Design & Interactive Development @ The Open Window",
   currently: "2nd Year student, debugging & learning every day",
   contact:   "251197@virtualwindow.co.za",
-  funFact:   "I love spicy food!"
+  funFact:   "I love spicy food!",
   languages: ["English", "Afrikaans", "Korean (intermediate)", "Chinese (beginner)"] // 🇿🇦 🇰🇷 🇨🇳
 ```
 ---
