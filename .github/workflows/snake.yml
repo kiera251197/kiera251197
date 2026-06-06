@@ -13,8 +13,8 @@ jobs:
         with:
           github_user_name: kiera251197
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
