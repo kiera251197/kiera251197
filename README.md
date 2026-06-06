@@ -1,4 +1,3 @@
-<div align="center">
 ## ⋆𐙚₊ Hello Traveller ˚⊹♡
 
 <div align="center">
@@ -75,6 +74,7 @@ const kiera = {
 ### ⋆𐙚₊ My GitHub Stats ˚⊹♡
  
 <div align="center">
+ 
 ![Kiera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiera251197&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=c47a8a&icon_color=8aab8f&text_color=5a2035)
  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiera251197&layout=compact&hide_border=true&bg_color=f0f5f1&title_color=3d6b45&text_color=1f3d23)
@@ -91,9 +91,7 @@ const kiera = {
  
 <div align="center">
  
-</div>
-
-Thanks for stopping by, traveller ˚⊹♡
+Thanks for stopping by, traveller ˚⊹♡ <br>
 ⋆˚｡⋆୨୧˚  Hope to see you again!  ˚୨୧⋆｡˚⋆
  
 </div>
