@@ -1,9 +1,9 @@
 ## ⋆𐙚₊ Hello Traveller ˚⊹♡
 
 <div align="center">
-```
+
 ✦ ✧ ˚  · ✦ welcome to my little corner of the internet ✦ · ˚ ✧ ✦
-```
+
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kiera251197/kiera251197/raw/output/github-snake-dark.svg?sanitize=true&v=2" />
@@ -18,10 +18,10 @@
 
 ## ⋆𐙚₊ Who's This? ˚⊹♡
  
-Hi, I'm **Kiera** — a **2nd Year UX/UI Design & Interactive Development Student** at The Open Window in Centurion 🪷  <br>
-I love building things that are both beautiful *and* functional. <br>
+Hi, I'm **Kiera** a **2nd Year UX/UI Design & Interactive Development Student** at The Open Window in Centurion 🪷  <br>
+I love building things that are both beautiful and functional. <br>
 
-I fell in love with intuitive and visually pleasing UI and wish to bring that to life with my (developing) coding skills ୨ৎ
+I fell in love with intuitive and visually pleasing UI and wish to bring that to life with my (growing) coding skills ୨ৎ
 
 ```js
 const kiera = {
