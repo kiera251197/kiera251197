@@ -1,7 +1,7 @@
 ## ⋆𐙚₊ Hello Traveller ˚⊹♡
 
 <div align="center">
-  <img src="./GitHubBanner.jpg" alt="Kiera Poley Banner" width="100%"/>
+  <img src="./GithubBanner.jpg" alt="Kiera Poley Banner" width="100%"/>
 </div>
 
 <picture>
