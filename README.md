@@ -1,10 +1,9 @@
 ## ⋆𐙚₊ Hello Traveller ˚⊹♡
 
 <div align="center">
+  <img src="./GithubBanner.jpg" alt="Kiera Poley Banner" width="100%"/>
+</div>
 
-✦ ✧ ˚  · ✦ welcome to my little corner of the internet ✦ · ˚ ✧ ✦
-
-<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kiera251197/kiera251197/raw/output/github-snake-dark.svg?sanitize=true&v=2" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/kiera251197/kiera251197/raw/output/github-snake.svg?sanitize=true&v=2" />
