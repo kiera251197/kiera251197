@@ -75,7 +75,7 @@ const kiera = {
 | [౨ৎ Vortx Movies](https://github.com/kiera251197/Group6_Semester2_Term4_FinalWebsiteSubmission) | ⟢ Movie info website and trailer previewer for fanatics |
 | [౨ৎ Creative Login](https://github.com/kiera251197/Creative-Login) | ⟢ A creative & aesthetic take on login UI design |
 | [౨ৎ Stitched](https://github.com/NicciVanZyl/Stitched_DV200) | ⟢ Online thrift platform for pre-loved clothes |
-| [౨ৎ Vouch](https://github.com/kiera251197/Vouch) | ⟢ Modern Lesbian & Sapphic dating site in which your chosen inner cirle can veto/vouch for partners |
+| [౨ৎ Vouch](https://github.com/kiera251197/Vouch) | ⟢ Modern Lesbian & Sapphic dating site in which your chosen inner circle can veto/vouch for partners |
  
 ---
 
