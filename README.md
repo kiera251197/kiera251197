@@ -43,6 +43,7 @@ const kiera = {
 ![HTML5](https://img.shields.io/badge/HTML5-e8a4b8?style=flat-square&logo=html5&logoColor=5a2035)
 ![CSS](https://img.shields.io/badge/CSS-f2c4d0?style=flat-square&logo=css&logoColor=5a2035)
 ![JavaScript](https://img.shields.io/badge/JavaScript-fce8ee?style=flat-square&logo=javascript&logoColor=5a2035)
+![PHP](https://img.shields.io/badge/PHP-8892bf?style=flat-square&logo=php&logoColor=5a2035)
 ![React](https://img.shields.io/badge/React-dceade?style=flat-square&logo=react&logoColor=1f3d23)
 ![Node.js](https://img.shields.io/badge/Node.js-b3c9b6?style=flat-square&logo=nodedotjs&logoColor=1f3d23)
 ![Express](https://img.shields.io/badge/Express-8aab8f?style=flat-square&logo=express&logoColor=1f3d23)
@@ -50,6 +51,7 @@ const kiera = {
 ### Databases & Data Management
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-b3c9b6?style=flat-square&logo=mongodb&logoColor=1f3d23)
+![MySQL](https://img.shields.io/badge/MySQL-b3c9d6?style=flat-square&logo=mysql&logoColor=5a2d22)
 ![Firebase](https://img.shields.io/badge/Firebase-f5d6cb?style=flat-square&logo=firebase&logoColor=5a2d22)
 
 ### Libraries & Tools
@@ -72,7 +74,6 @@ const kiera = {
 | Project | What it is |
 |-----------|------------|
 | [౨ৎ PawMetrics](https://github.com/kiera251197/PawMetrics) | ⟢ Data driven dog breed comparison website from social behaviour to life expectancy |
-| [౨ৎ Vortx Movies](https://github.com/kiera251197/Group6_Semester2_Term4_FinalWebsiteSubmission) | ⟢ Movie info website and trailer previewer for fanatics |
 | [౨ৎ Creative Login](https://github.com/kiera251197/Creative-Login) | ⟢ A creative & aesthetic take on login UI design |
 | [౨ৎ Stitched](https://github.com/NicciVanZyl/Stitched_DV200) | ⟢ Online thrift platform for pre-loved clothes |
 | [౨ৎ Vouch](https://github.com/kiera251197/Vouch) | ⟢ Modern Lesbian & Sapphic dating site in which your chosen inner circle can veto/vouch for partners |
