@@ -1,4 +1,4 @@
-## ⋆𐙚₊ Hello Traveller ˚⊹♡
+## ⋆𐙚₊ Why Hello There ˚⊹♡
 
 <div align="center">
   <img src="./GithubBanner.jpg" alt="Kiera Poley Banner" width="100%"/>
@@ -96,7 +96,7 @@ const kiera = {
   
 <div align="center">
  
-Thanks for stopping by, traveller ˚⊹♡ <br>
+Thanks for stopping by ˚⊹♡ <br>
 ⋆˚｡⋆୨୧˚  Hope to see you again!  ˚୨୧⋆｡˚⋆
  
 </div>
