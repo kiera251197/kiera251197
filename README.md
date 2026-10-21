@@ -43,7 +43,7 @@ const kiera = {
 ![HTML5](https://img.shields.io/badge/HTML5-e8a4b8?style=flat-square&logo=html5&logoColor=5a2035)
 ![CSS](https://img.shields.io/badge/CSS-f2c4d0?style=flat-square&logo=css&logoColor=5a2035)
 ![JavaScript](https://img.shields.io/badge/JavaScript-fce8ee?style=flat-square&logo=javascript&logoColor=5a2035)
-![PHP](https://img.shields.io/badge/PHP-8892bf?style=flat-square&logo=php&logoColor=5a2035)
+![PHP](https://img.shields.io/badge/PHP-8892bf?style=flat-square&logo=php&logoColor=DFDBF9)
 ![React](https://img.shields.io/badge/React-dceade?style=flat-square&logo=react&logoColor=1f3d23)
 ![Node.js](https://img.shields.io/badge/Node.js-b3c9b6?style=flat-square&logo=nodedotjs&logoColor=1f3d23)
 ![Express](https://img.shields.io/badge/Express-8aab8f?style=flat-square&logo=express&logoColor=1f3d23)
@@ -53,6 +53,12 @@ const kiera = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-b3c9b6?style=flat-square&logo=mongodb&logoColor=1f3d23)
 ![MySQL](https://img.shields.io/badge/MySQL-b3c9d6?style=flat-square&logo=mysql&logoColor=5a2d22)
 ![Firebase](https://img.shields.io/badge/Firebase-f5d6cb?style=flat-square&logo=firebase&logoColor=5a2d22)
+
+### Deployment
+
+![Azure](https://img.shields.io/badge/Azure-b3c9d6?style=flat-square&logo=microsoftazure&logoColor=5a2d22)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-f5d6cb?style=flat-square&logo=googlecloud&logoColor=5a2d22)
+![AWS](https://img.shields.io/badge/AWS-dfd4ee?style=flat-square&logo=amazonaws&logoColor=3b2860)
 
 ### Libraries & Tools
 
@@ -66,7 +72,10 @@ const kiera = {
 ![Figma](https://img.shields.io/badge/Figma-e8a4b8?style=flat-square&logo=figma&logoColor=5a2035)
 ![Illustrator](https://img.shields.io/badge/Illustrator-f5d6cb?style=flat-square&logo=adobeillustrator&logoColor=5a2d22)
 ![Photoshop](https://img.shields.io/badge/Photoshop-dfd4ee?style=flat-square&logo=adobephotoshop&logoColor=3b2860)
- 
+![After Effects](https://img.shields.io/badge/After%20Effects-8892bf?style=flat-square&logo=adobeaftereffects&logoColor=DFDBF9)
+![InDesign](https://img.shields.io/badge/InDesign-f2c4d0?style=flat-square&logo=adobeindesign&logoColor=5a2035)
+![Canva](https://img.shields.io/badge/Canva-b3c9b6?style=flat-square&logo=canva&logoColor=1f3d23)
+
 ---
  
 ## ⋆𐙚₊ My Pinned Projects ˚⊹♡
