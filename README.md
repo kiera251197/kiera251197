@@ -93,8 +93,6 @@ const kiera = {
  
 <div align="center">
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiera251197&theme=rose_pine&hide_border=true&show_icons=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=kiera251197&theme=rose_pine&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiera251197&theme=rose_pine&hide_border=true&layout=compact)
